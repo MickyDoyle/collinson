@@ -1,4 +1,4 @@
-# Collinson group Take-Home Test
+# Collinson Group Take-Home Test
 
 2025-04-13 - By Michael Doyle [email](mailto:mdoyle@mdoyle.org) | [linkedin](https://www.linkedin.com/in/mdoyle/)
 
